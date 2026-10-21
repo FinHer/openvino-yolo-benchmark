@@ -1,0 +1,11 @@
+# Calisma zamani (webcam demo + benchmark)
+openvino>=2026.4
+opencv-python
+numpy
+
+# Sadece model export / INT8 quantization / dogrulama icin
+ultralytics
+nncf>=2.14.0
+
+# Sadece README grafigini uretmek icin
+matplotlib

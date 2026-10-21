@@ -1,0 +1,28 @@
+# Sanal ortam
+ov-env/
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Modeller (README'deki komutlarla yeniden uretilir)
+*.pt
+*_openvino_model/
+
+# OpenVINO model onbellegi
+ov_cache/
+
+# Ultralytics ciktilari ve veri setleri
+runs/
+datasets/
+
+# Benchmark'in varsayilan ciktisi (kalici sonuclar results/ altinda)
+benchmark_results.csv
+
+# Isletim sistemi / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

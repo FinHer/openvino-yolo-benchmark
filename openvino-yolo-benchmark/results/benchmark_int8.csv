@@ -1,0 +1,4 @@
+cihaz,ad,derleme_sn,gecikme_ort_ms,gecikme_p50_ms,gecikme_p95_ms,verim_fps,paralel_istek
+CPU,Intel(R) Core(TM) Ultra 9 185H,0.45,12.17,12.21,13.77,235.5,6
+GPU.0,Intel(R) Graphics (iGPU),15.72,4.97,4.81,5.85,176.6,64
+NPU,Intel(R) AI Boost,1.66,10.15,10.41,10.84,114.8,4
